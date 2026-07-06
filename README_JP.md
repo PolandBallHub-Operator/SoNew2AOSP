@@ -1,5 +1,5 @@
 # sonew2aosp
-
+<img src="./Resources/logo.png" width="30%" align="center">
 Xperia 端末を AOSP (Android Open Source Project) 風の UI に変更するための .NET 8.x WinForms ツールです。
 
 ## 特徴
@@ -11,9 +11,6 @@ Xperia 端末を AOSP (Android Open Source Project) 風の UI に変更するた
 - **オーバーレイマネージャー**: 端末内のオーバーレイを GUI で一括管理（有効/無効/アンインストール/再インストール）できます。
 
 ## スクリーンショット
-
-### ロゴ
-![sonew2aosp Logo](./Resources/logo.png)
 
 ### AOSP化前のロック画面
 <img src="./images/lockscreen_before.png" width="30%">
