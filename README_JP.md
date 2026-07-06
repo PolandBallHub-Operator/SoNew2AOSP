@@ -13,7 +13,7 @@ Xperia 端末を AOSP (Android Open Source Project) 風の UI に変更するた
 ## スクリーンショット
 
 ### ロゴ
-![sonew2aosp Logo](./sonew2aospApp/Resources/logo.png)
+![sonew2aosp Logo](./Resources/logo.png)
 
 ### AOSP化前のロック画面
 <img src="./images/lockscreen_before.png" width="30%">
