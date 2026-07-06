@@ -22,10 +22,10 @@ Xperia 端末を AOSP (Android Open Source Project) 風の UI に変更するた
 <img src="./images/lockscreen_after.png" width="30%">
 
 ### AOSP化前の設定画面
-![AOSP化前の設定画面](./images/settings_before.png)
+<img src="./images/settings_before.png" width="30%">
 
 ### AOSP化後の設定画面
-![AOSP化後の設定画面](./images/settings_after.png)
+<img src="./images/settings_after.png" width="30%">
 
 ## 使用条件
 - Windows OS
